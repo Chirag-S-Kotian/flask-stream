@@ -1,0 +1,1 @@
+MONGODB_URL="mongodb+srv://ck17:chirag123@flask1.cjipb.mongodb.net/?retryWrites=true&w=majority&appName=flask1"
