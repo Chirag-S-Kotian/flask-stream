@@ -5,7 +5,6 @@
 livestream-app/
 ├── backend/
 │   ├── app.py                 # Main Flask application
-│   ├── requirements.txt       # Python dependencies
 │   ├── uploads/               # Directory for uploaded images
 ├── frontend/
 │   ├── src/
