@@ -13,7 +13,6 @@
 
 ### 1. Code Repository
 
-
 **Repository Structure**:
 ```
 livestream-app/
