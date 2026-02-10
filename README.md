@@ -5,16 +5,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 ### 1. Code Repository
 
 **Repository Structure**:
